@@ -1,4 +1,4 @@
-### Hellooo  👋
+### Namaste 🙏 
 
 <ul>
  <li> 💻 I'm a second year CSE student. </li>
