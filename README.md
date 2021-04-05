@@ -17,7 +17,10 @@
 [<img align = "left" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>]()
+[<img align = "left" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg"/>]()
 
 <br>
 <br>
@@ -27,4 +30,6 @@
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg">](https://www.instagram.com/_shubhrima_/)
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg">](https://twitter.com/Shubhrima2)
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg">](https://shubhrimajana.medium.com/)
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg">](https://www.behance.net/shubhrimajana/)
+
 <br>
