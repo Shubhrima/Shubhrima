@@ -1,6 +1,6 @@
 # Namaste 🙏 
 
-	<p align="center">I am <strong>Shubhrima Jana</strong>, a Computer Science Undergrad.</p>
+<p align="center">I am <strong>Shubhrima Jana</strong>, a Computer Science Undergrad.</p>
  <p align="center">Pronouns: <strong>She/Her</strong></p>
  <p align="center" >I am pursuing B. Tech  in the Government College of Engineering and Ceramic Technology. I completed my schooling from Carmel High School in the year 2019. I am enthusiastic towards learning and exploring new technology 📱💻</p>
 <p align="center"> Tech amazes me📳📴. I am currently working on web development and flutter development projects🗃 </p>
