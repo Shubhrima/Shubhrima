@@ -8,6 +8,9 @@
 <br>
 
 <p align ="center" width = "45%"> <img src="https://github-readme-stats.vercel.app/api?username=shubhrima&hide=stars&count_private=true&show_icons=true" width="300" height="200"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhrima" width="400" height="200"/></p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhrima&theme=dark" width="400" height="200"/>
+</p>
 
 <br>
 
