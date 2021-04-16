@@ -8,7 +8,7 @@
 <p align="center" style="margin: 0 19%";><a href="https://profile-summary-for-github.com/user/shubhrima"><strong>Click to see detailed PROFILE STATISTICS.</strong></a></p>
 <br>
 
-<p align ="center" width = "45%"> <img src="https://github-readme-stats.vercel.app/api?username=shubhrima&hide=stars&count_private=true&show_icons=true" width="300" height="200"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhrima" width="400" height="200"/></p>
+<p align ="center" width = "45%"> <a href="https://github-readme-stats.vercel.app/api?username=shubhrima"><img src="https://github-readme-stats.vercel.app/api?username=shubhrima&hide=stars&count_private=true&show_icons=true" width="300" height="200"/></a> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhrima"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhrima" width="400" height="200"/></a></p>
 <p align="center"><a href="https://github-readme-streak-stats.herokuapp.com/?user=shubhrima&theme=dark">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhrima&theme=dark" width="400" height="200"/></a>
 </p>
