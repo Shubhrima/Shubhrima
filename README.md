@@ -12,7 +12,7 @@
 <p align="center"><a href="https://github-readme-streak-stats.herokuapp.com/?user=shubhrima&theme=dark">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhrima&theme=dark" width="400" height="200"/></a>
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&hide=stars"><img src="https://github-profile-trophy.vercel.app/?username=shubhrima&hide=stars"/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&hide=stars"><img src="https://github-profile-trophy.vercel.app/?username=shubhrima&hide=stars"/></a> </p>
 
 <br>
 
