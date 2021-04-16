@@ -9,9 +9,10 @@
 <br>
 
 <p align ="center" width = "45%"> <img src="https://github-readme-stats.vercel.app/api?username=shubhrima&hide=stars&count_private=true&show_icons=true" width="300" height="200"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhrima" width="400" height="200"/></p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhrima&theme=dark" width="400" height="200"/>
+<p align="center"><a href="https://github-readme-streak-stats.herokuapp.com/?user=shubhrima&theme=dark">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhrima&theme=dark" width="400" height="200"/></a>
 </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&hide=stars"><img src="https://github-profile-trophy.vercel.app/?username=shubhrima&hide=stars"/></a> </p>
 
 <br>
 
