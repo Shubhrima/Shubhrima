@@ -6,6 +6,7 @@
 <p align="center"> Tech amazes me📳📴. I am currently working on web development and flutter development projects🗃 </p>
 <p align="center" style="margin: 0 19%";> I love doodling🖍, painting🖌 and reading story books📚. </p>
 <p align="center" style="margin: 0 19%";><a href="https://profile-summary-for-github.com/user/shubhrima"><strong>Click to see detailed PROFILE STATISTICS.</strong></a></p>
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=shubhrima&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00"></p>
 <br>
 
 <p align ="center" width = "45%"> <a href="https://github-readme-stats.vercel.app/api?username=shubhrima"><img src="https://github-readme-stats.vercel.app/api?username=shubhrima&hide=stars&count_private=true&show_icons=true" width="300" height="200"/></a> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhrima"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhrima" width="400" height="200"/></a></p>
