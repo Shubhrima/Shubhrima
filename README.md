@@ -13,7 +13,7 @@
 <p align="center"><a href="https://github-readme-streak-stats.herokuapp.com/?user=shubhrima&theme=dark">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhrima&theme=dark" width="400" height="200"/></a>
 </p>
-<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=shubhrima"><img src="https://github-profile-trophy.vercel.app/?username=shubhrima&title=Joined2020,Commit,Followers,Issues,PullRequest,Repositories"/></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=shubhrima"><img src="https://github-profile-trophy.vercel.app/?username=shubhrima"/></a> </p>
 
 <br>
 
