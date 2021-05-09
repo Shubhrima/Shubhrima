@@ -9,7 +9,7 @@
 <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=shubhrima&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00"></p>
 <br>
 
-<p align ="center" width = "45%"> <a href="https://github-readme-stats.vercel.app/api?username=shubhrima"><img src="https://github-readme-stats.vercel.app/api?username=shubhrima&hide=stars&count_private=true&show_icons=true" width="300" height="200"/></a> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhrima&exclude_repo=quiz"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhrima&exclude_repo=quiz&layout=compact&langs_count=6" width="400" height="200"/></a></p>
+<p align ="center" width = "45%"> <a href="https://github-readme-stats.vercel.app/api?username=shubhrima"><img src="https://github-readme-stats.vercel.app/api?username=shubhrima&hide=stars&count_private=true&show_icons=true" width="300" height="200"/></a> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhrima&exclude_repo=quiz"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhrima&exclude_repo=quiz&layout=compact&langs_count=6" width="300" height="100"/></a></p>
 <p align="center"><a href="https://github-readme-streak-stats.herokuapp.com/?user=shubhrima&theme=dark">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhrima&theme=dark" width="400" height="200"/></a>
 </p>
