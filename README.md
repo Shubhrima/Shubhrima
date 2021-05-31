@@ -34,7 +34,7 @@
 <br>
 <br>
 
-## Contact me:
+## Connect: <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="79px">
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg">](https://www.linkedin.com/in/shubhrima-jana/)
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg">](https://www.instagram.com/_shubhrima_/)
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg">](https://twitter.com/Shubhrima2)
