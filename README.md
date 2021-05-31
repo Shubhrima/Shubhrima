@@ -1,7 +1,6 @@
 # Namaste 🙏 
 
 <p align="center">I am <strong>Shubhrima Jana</strong>, a Computer Science Undergrad.</p>
- <p align="center">Pronouns: <strong>She/Her</strong></p>
  <p align="center" >I am pursuing B. Tech  in the Government College of Engineering and Ceramic Technology. I completed my schooling from Carmel High School in the year 2019. I am enthusiastic towards learning and exploring new technology 📱💻</p>
 <p align="center"> Tech amazes me📳📴. I am currently working on web development and flutter development projects🗃 </p>
 <p align="center" style="margin: 0 19%";> I love doodling🖍, painting🖌 and reading story books📚. </p>
@@ -17,7 +16,7 @@
 
 <br>
 
-## Tech Stack
+## Tech Stack <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Developer.gif" width="59px;">
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>]()
