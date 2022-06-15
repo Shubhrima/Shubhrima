@@ -16,7 +16,7 @@
 
 <br>
 
-## Tech Stack <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Developer.gif" width="59px;">
+## Tech Stack 
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>]()
@@ -33,7 +33,7 @@
 <br>
 <br>
 
-## Connect: <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="79px">
+## Connect: 
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg">](https://www.linkedin.com/in/shubhrima-jana/)
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg">](https://www.instagram.com/_shubhrima_/)
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg">](https://twitter.com/Shubhrima2)
